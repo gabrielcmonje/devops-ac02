@@ -1,0 +1,5 @@
+
+
+O Arquiteto de Dados é o profissional responsável por assegurar que os dados da empresa estejam suportados por uma arquitetura que contemple os objetivos estratégicos. Esta arquitetura deve abranger o banco de dados, integração de dados e a metodologia para acessar estes dados. Geralmente, o Arquiteto de Dados atinge seus objetivos através da padronização dos dados da empresa.
+
+É a descrição das informações armazenadas em um banco de dados. Citando como exemplo o nosso estudo de caso, podemos dizer que o modelo de dados informa que o banco de dados armazena informações sobre CDs e que, para cada CD, estão armazenadas informações sobre o autor, título, número de CDs e as músicas. Em resumo, um modelo de banco de dados nada mais é do que a descrição formal da estrutura de um banco de dados.
